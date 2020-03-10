@@ -1,5 +1,5 @@
-# capstone
-animal control incidents
+# Classifying features of animal control cases.
 
-FlatIron final project:
-Incidents responded to by the Baton Rouge Animal Control and Rescue Center (ACRC).
+Incidents reported to Baton Rouge Animal Control and Rescue Center (ACRC).
+
+Supervised learning predicting features such as animal temperament, status, and outcome of case.
